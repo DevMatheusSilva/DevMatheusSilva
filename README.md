@@ -11,4 +11,8 @@ Sou um desenvolvedor iniciante e ainda estou aprendendo, atualmente estou cursan
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height = "80px" width = "80px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height = "80px" width = "80px">
 
-# Painel de Status:
+# 📖 Painel de Status:
+
+* Desenvolvimento Web com HTML5, CSS3, PHP e MySQL<br>
+* Aprendendo PyGames pra desenvolvimento de Jogos<br>
+* Aprofundando conhecimento em C e Python
