@@ -1,9 +1,8 @@
-<h1 align = "center">Hello World, it's dangerous to go alone take this 🎮</h1>
+<h1 align = "center">🎮 Hello World, it's dangerous to go alone take this 🎮</h1>
 
 Sou um **desenvolvedor iniciante** e ainda estou aprendendo, atualmente estou cursando **Análise e Desenvolvimento de Sistemas** pela [FATEC Mogi das Cruzes](https://www.fatecmogidascruzes.com.br/)
 
-
-<h1 align = "center"> Conquistas Desbloqueadas: </h1>
+<h1 align = "center"> 🏆 Conquistas Desbloqueadas 🏆: </h1>
 <table align = "center">
 <tr>
   <td>
@@ -30,7 +29,7 @@ Sou um **desenvolvedor iniciante** e ainda estou aprendendo, atualmente estou cu
 </tr>
 </table>
 
-<h1 align = "center">📖 Painel de Status</h1>
+<h1 align = "center">📖 Painel de Status 📖</h1>
 
 <ul>
   <li>
