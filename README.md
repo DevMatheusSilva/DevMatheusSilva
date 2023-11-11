@@ -1,6 +1,6 @@
 <h1 align = "center">🎮 Hello World, it's dangerous to go alone take this 🎮</h1>
 
-Sou um **desenvolvedor iniciante** e ainda estou aprendendo, atualmente estou cursando **Análise e Desenvolvimento de Sistemas** pela [FATEC Mogi das Cruzes](https://www.fatecmogidascruzes.com.br/)
+<p align = "center">Sou um <strong>desenvolvedor iniciante</strong> e ainda estou aprendendo, atualmente estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> pela <a href = "https://www.fatecmogidascruzes.com.br/">FATEC Mogi das Cruzes</a></p>
 
 <h1 align = "center"> 🏆 Conquistas Desbloqueadas 🏆: </h1>
 <table align = "center">
@@ -26,20 +26,28 @@ Sou um **desenvolvedor iniciante** e ainda estou aprendendo, atualmente estou cu
   <td>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height = "80px" width = "80px">
   </td>
-</tr>
+</tr>lll
 </table>
 
 <h1 align = "center">📖 Painel de Status 📖</h1>
 
-<ul>
-  <li>
-    Estudando Desenvolvimento Web com HTML5, CSS3, PHP e MySQL<br>    
-  </li>
-  <li>
-    Aprendendo PyGames pra desenvolvimento de Jogos<br>
-  </li>
-  <li>
-    Aprofundando conhecimento em C e Python
-  </li>
-</ul>
+<div align = "center">
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=DevMatheusSilva&show_icons=true&theme=tokyonight&count_private=true">
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DevMatheusSilva&layout=compact&theme=dark">
+</div>
+<hr>
 
+<div align = "center">
+  <ul>
+    <li>
+      Estudando Desenvolvimento Web com HTML5, CSS3, PHP e MySQL<br>    
+    </li>
+    <li>
+      Aprendendo PyGames pra desenvolvimento de Jogos<br>
+    </li>
+    <li>
+      Aprofundando conhecimento em C e Python
+    </li>
+  </ul>  
+</div>
+<hr>
