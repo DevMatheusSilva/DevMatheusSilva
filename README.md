@@ -2,7 +2,7 @@
 
 <p align = "center">Sou um <strong>desenvolvedor iniciante</strong> e ainda estou aprendendo, atualmente estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> pela <a href = "https://www.fatecmogidascruzes.com.br/">FATEC Mogi das Cruzes</a></p>
 
-<h1 align = "center"> 🏆 Conquistas Desbloqueadas 🏆: </h1>
+<h1 align = "center">🏆Conquistas Desbloqueadas 🏆:</h1>
 
 <table align = "center">
 <tr>
@@ -27,7 +27,7 @@
   <td>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height = "80px" width = "80px">
   </td>
-</tr>lll
+</tr>
 </table>
 
 <h1 align = "center">📖 Painel de Status 📖</h1>
