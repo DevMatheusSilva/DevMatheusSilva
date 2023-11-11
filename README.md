@@ -2,7 +2,7 @@
 
 <p align = "center">Sou um <strong>desenvolvedor iniciante</strong> e ainda estou aprendendo, atualmente estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> pela <a href = "https://www.fatecmogidascruzes.com.br/">FATEC Mogi das Cruzes</a></p>
 
-<h1 align = "center">🏆Conquistas Desbloqueadas 🏆:</h1>
+<h1 align = "center">🏆 Conquistas Desbloqueadas 🏆</h1>
 
 <table align = "center">
 <tr>
@@ -53,7 +53,9 @@
 </div>
 <hr>
 
+<h1 align = "center">📞 Contatos 📞</h1>
+
 <div align = "center">
   <a href = "https://www.linkedin.com/in/matheus-mello-a792b2296/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:matheusmello225@gmail.com""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
