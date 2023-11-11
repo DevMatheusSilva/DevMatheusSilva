@@ -3,6 +3,7 @@
 <p align = "center">Sou um <strong>desenvolvedor iniciante</strong> e ainda estou aprendendo, atualmente estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> pela <a href = "https://www.fatecmogidascruzes.com.br/">FATEC Mogi das Cruzes</a></p>
 
 <h1 align = "center"> 🏆 Conquistas Desbloqueadas 🏆: </h1>
+
 <table align = "center">
 <tr>
   <td>
@@ -33,7 +34,7 @@
 
 <div align = "center">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=DevMatheusSilva&show_icons=true&theme=tokyonight&count_private=true">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DevMatheusSilva&layout=compact&theme=dark">
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DevMatheusSilva&layout=compact&theme=tokyonight">
 </div>
 <hr>
 
