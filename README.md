@@ -44,7 +44,7 @@
       Estudando Desenvolvimento Web com HTML5, CSS3, PHP e MySQL<br>    
     </li>
     <li>
-      Aprendendo PyGames pra desenvolvimento de Jogos<br>
+      Aprendendo PyGames<br>
     </li>
     <li>
       Aprofundando conhecimento em C e Python
