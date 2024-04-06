@@ -41,13 +41,13 @@
 <div align = "center">
   <ul>
     <li>
-      Estudando Desenvolvimento Web com HTML5, CSS3, PHP e MySQL<br>    
+      Estudando Rust<br>   
     </li>
     <li>
-      Aprendendo PyGames<br>
+      Aprendendo Simulação de Física com auxílio do Pygame<br>
     </li>
     <li>
-      Aprofundando conhecimento em C e Python
+      Aprofundando conhecimentos nas linguagens em geral
     </li>
   </ul>  
 </div>
