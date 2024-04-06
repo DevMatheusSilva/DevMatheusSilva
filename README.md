@@ -39,11 +39,9 @@
 <hr>
 
 <div align = "center">
-  <ul style="list-style-type: none; text-decoration: none;">
-    <li>Estudando Rust</li>
-    <li>Aprendendo Simulação de Física com auxílio do Pygame</li>
-    <li>Aprofundando conhecimentos nas linguagens em geral</li>
-  </ul>
+  <p>Estudando Rust</p>
+  <p>Aprendendo Simulação de Física com auxílio do Pygame</p>
+  <p>Aprofundando conhecimentos nas linguagens em geral</p>
 </div>
 <hr>
 
