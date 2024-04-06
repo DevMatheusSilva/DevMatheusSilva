@@ -39,7 +39,7 @@
 <hr>
 
 <div align = "center">
-  <ul>
+  <ul style = "text-decoration: none">
     <li>
       Estudando Rust<br>   
     </li>
