@@ -40,8 +40,8 @@
 
 <div align = "center">
   <p>Estudando Rust</p>
-  <p>Aprendendo Simulação de Física com auxílio do Pygame</p>
-  <p>Aprofundando conhecimentos nas linguagens em geral</p>
+  <p>Aprofundando os conhecimentos na linguagem Python</p>
+  <p>Buscando conhecimentos técnicos</p>
 </div>
 <hr>
 
