@@ -39,9 +39,9 @@
 <hr>
 
 <div align = "center">
-  <p>Estudando Rust</p>
+  <p>Estudando a linguagem Rust para otimização de memória e Low-Level Programming</p>
   <p>Aprofundando os conhecimentos na linguagem Python</p>
-  <p>Buscando conhecimentos técnicos</p>
+  <p>Buscando conhecimentos técnicos em TI no geral</p>
 </div>
 <hr>
 
