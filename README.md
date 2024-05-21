@@ -1,4 +1,4 @@
-<h1 align = "center">🎮 Hello World, it's dangerous to go alone take this 🎮</h1>
+<h1 align = "center">🎮 Hello World, it's dangerous to go alone, read this 🎮</h1>
 
 <p align = "center">Sou um <strong>desenvolvedor iniciante</strong> e ainda estou aprendendo, atualmente estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> pela <a href = "https://www.fatecmogidascruzes.com.br/">FATEC Mogi das Cruzes</a></p>
 
