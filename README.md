@@ -41,7 +41,7 @@
 <div align = "center">
   <p>Estudando a linguagem Rust para otimização de memória e Low-Level Programming</p>
   <p>Aprofundando os conhecimentos na linguagem Python</p>
-  <p>Buscando conhecimentos técnicos em TI no geral</p>
+  <p>Aprendendo JavaScript e React para desenvolvimento web</p>
 </div>
 <hr>
 
