@@ -44,10 +44,3 @@
   <p>Aprendendo JavaScript e React para desenvolvimento web</p>
 </div>
 <hr>
-
-<h1 align = "center">📞 Contatos 📞</h1>
-
-<div align = "center">
-  <a href = "https://www.linkedin.com/in/matheus-mello-a792b2296/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:matheusmello225@gmail.com""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
