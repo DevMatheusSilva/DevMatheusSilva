@@ -1,46 +1,39 @@
-<h1 align = "center">🎮 Hello World, it's dangerous to go alone, read this 🎮</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD847">
 
-<p align = "center">Sou um <strong>desenvolvedor iniciante</strong> e ainda estou aprendendo, atualmente estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> pela <a href = "https://www.fatecmogidascruzes.com.br/">FATEC Mogi das Cruzes</a></p>
+<h1 align = "center">My Status</h1>
 
-<h1 align = "center">🏆 Conquistas Desbloqueadas 🏆</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=0&color=F7F7F7&center=true&multiline=true&repeat=false&random=false&width=1000&height=100&lines=My+name+is+Matheus+Silva+;I'm+an+IT%2FBack-End+Developer+Student;Hope+you+enjoy+your+stay+here+%F0%9F%8E%AE)](https://git.io/typing-svg)
 
-<table align = "center">
-<tr>
+<table align="center">
   <td>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg?short_path=d0841f2" height = "80px" width = "80px">
+    <div>
+      <img src="https://avatars.githubusercontent.com/u/145032065?v=4" height="130px" width="130px">
+    </div>
   </td>
   <td>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg?short_path=3f9929e" height = "80px" width = "80px">
+    <div align = "center">
+      <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=DevMatheusSilva&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117">
+      <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DevMatheusSilva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117">
+    </div>
   </td>
-  <td>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg?short_path=c2dda3a" height = "80px" width = "80px">
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg?short_path=ff5b6ce" height = "80px" width = "80px">
-  </td>
-  <td>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height = "80px" width = "80px">
-  </td>
-  <td>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height = "80px" width = "80px">
-  </td>
-</tr>
+  
 </table>
 
-<h1 align = "center">📖 Painel de Status 📖</h1>
-
-<div align = "center">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=DevMatheusSilva&show_icons=true&theme=tokyonight&count_private=true">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DevMatheusSilva&layout=compact&theme=tokyonight">
+<h1 align = "center">🏆 Conquistas Desbloqueadas 🏆</h1>
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg?short_path=d0841f2" height = "80px" width = "80px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height = "80px" width = "80px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height = "80px" width = "80px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg?short_path=c2dda3a" height = "80px" width = "80px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height = "80px" width = "80px">
+  
 </div>
-<hr>
 
-<div align = "center">
-  <p>Estudando a linguagem Rust para otimização de memória e Low-Level Programming</p>
-  <p>Aprofundando os conhecimentos na linguagem Python</p>
-  <p>Aprendendo JavaScript e React para desenvolvimento web</p>
+<h1 align = "center">🚀 Em Andamento 🚀</h1>
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height = "80px" width = "80px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height = "80px" width = "80px">
+  <img src="https://www.rust-lang.org/logos/rust-logo-256x256.png" height = "80px" width = "80px">
 </div>
-<hr>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3B77A7&section=footer">
