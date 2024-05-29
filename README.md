@@ -1,12 +1,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD847">
 
-<h1 align = "center">My Status</h1>
+<h1 align = "center">📒 My Status 📘</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=0&color=F7F7F7&center=true&multiline=true&repeat=false&random=false&width=1000&height=100&lines=My+name+is+Matheus+Silva+;I'm+an+IT%2FBack-End+Developer+Student;Hope+you+enjoy+your+stay+here+%F0%9F%8E%AE)](https://git.io/typing-svg)
 
 <div align = "center">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=DevMatheusSilva&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DevMatheusSilva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117">
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=DevMatheusSilva&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4A8BBD&text_color=FFFF&icon_color=FCD53F">
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DevMatheusSilva&layout=compact&hide_border=true&bg_color=0d1117&title_color=4A8BBD&text_color=FFFF&icon_color=FCD53F">
 </div>
 
 <h1 align = "center">🏆 Conquistas Desbloqueadas 🏆</h1>
