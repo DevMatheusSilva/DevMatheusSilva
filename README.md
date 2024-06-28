@@ -22,7 +22,10 @@
 <h1 align = "center">🚀 Em Andamento 🚀</h1>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height = "80px" width = "80px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" height = "80px" width = "80px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height = "80px" width = "80px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" height = "80px" width = "80px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height = "80px" width = "80px">
   <img src="https://www.rust-lang.org/logos/rust-logo-256x256.png" height = "80px" width = "80px">
 </div>
 
