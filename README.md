@@ -11,22 +11,22 @@
 
 <h1 align = "center">🏆 Conquistas Desbloqueadas 🏆</h1>
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg?short_path=d0841f2" height = "80px" width = "80px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height = "80px" width = "80px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height = "80px" width = "80px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg?short_path=c2dda3a" height = "80px" width = "80px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height = "80px" width = "80px">
-  
-</div>
-
-<h1 align = "center">🚀 Em Andamento 🚀</h1>
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height = "80px" width = "80px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" height = "80px" width = "80px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height = "80px" width = "80px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" height = "80px" width = "80px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height = "80px" width = "80px">
-  <img src="https://www.rust-lang.org/logos/rust-logo-256x256.png" height = "80px" width = "80px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg?short_path=d0841f2" width = "70px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width = "70px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width = "70px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width = "70px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg?short_path=c2dda3a" width = "70px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width = "70px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width = "70px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width = "70px"><br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width = "70px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width = "70px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg?short_path=d0841f2" width = "70px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width = "70px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width = "70px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ktor/ktor-original-wordmark.svg" width = "70px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width = "70px">
+  <img src="https://www.rust-lang.org/logos/rust-logo-256x256.png" width = "70px">
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3B77A7&section=footer">
