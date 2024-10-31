@@ -27,6 +27,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/ktor/ktor-original-wordmark.svg" width = "70px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width = "70px">
   <img src="https://www.rust-lang.org/logos/rust-logo-256x256.png" width = "70px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width = "70px">
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3B77A7&section=footer">
