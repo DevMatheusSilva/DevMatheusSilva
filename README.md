@@ -20,7 +20,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width = "60px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width = "60px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width = "60px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" width = "60px">
 </div>
 
 <h2 align = "center">⚙ Frameworks ⚙</h2>
@@ -28,8 +27,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg?short_path=d0841f2" width = "60px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" width = "60px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width = "60px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width = "60px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width = "60px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width = "60px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg" width = "60px">
 </div>
