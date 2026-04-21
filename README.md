@@ -1,15 +1,11 @@
-<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1b5089"> -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=004A95">
 
-<p>╔═══════════════════════════════════════════════════════════════════════════════════════╗</p>
 <div align="center">
-  <p>┌────────────────────────────────────────┐</p>
   <h3>  𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 </h3>
   <h4> ☆ ★ ☆ </h4>
   <h4> 𝙼𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 𝙼𝚊𝚝𝚑𝚎𝚞𝚜 𝚂𝚒𝚕𝚟𝚊 𝚎𝚗𝚓𝚘𝚢 𝚢𝚘𝚞𝚛 𝚜𝚝𝚊𝚢 𝚑𝚎𝚛𝚎 </h4>
-  <p>└────────────────────────────────────────┘</p>
   <img src="https://i.pinimg.com/originals/21/9a/09/219a09d5c2d9e50e4c2d20c9a03e09af.gif" align="center" width=450>
 </div>
-
 
 <h3 align="center"> 𝙼𝚢 𝚂𝚝𝚊𝚝𝚞𝚜 </h3>
 <div align = "center">
@@ -32,6 +28,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width = "60px">
 </div>
 
-<p>╚═══════════════════════════════════════════════════════════════════════════════════════╝</p>
-
-<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1b5089&section=footer"> --> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=004A95&section=footer">
