@@ -1,34 +1,37 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD847">
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1b5089"> -->
 
-<h1 align = "center">📒 My Status 📘</h1>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=0&color=F7F7F7&center=true&multiline=true&repeat=false&random=false&width=1000&height=100&lines=My+name+is+Matheus+Silva+;I'm+an+IT%2FBack-End+Developer+Student;Hope+you+enjoy+your+stay+here+%F0%9F%8E%AE)](https://git.io/typing-svg)
-
-<div align = "center">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=DevMatheusSilva&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4A8BBD&text_color=FFFF&icon_color=FCD53F">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DevMatheusSilva&layout=compact&hide_border=true&bg_color=0d1117&title_color=4A8BBD&text_color=FFFF&icon_color=FCD53F">
+<p>╔═══════════════════════════════════════════════════════════════════════════════════════╗</p>
+<div align="center">
+  <p>┌────────────────────────────────────────┐</p>
+  <h3>  𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 </h3>
+  <h4> ☆ ★ ☆ </h4>
+  <h4> 𝙼𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 𝙼𝚊𝚝𝚑𝚎𝚞𝚜 𝚂𝚒𝚕𝚟𝚊 𝚎𝚗𝚓𝚘𝚢 𝚢𝚘𝚞𝚛 𝚜𝚝𝚊𝚢 𝚑𝚎𝚛𝚎 </h4>
+  <p>└────────────────────────────────────────┘</p>
+  <img src="https://i.pinimg.com/originals/21/9a/09/219a09d5c2d9e50e4c2d20c9a03e09af.gif" align="center" width=450>
 </div>
 
-<h2 align = "center">🔨 Languages and Tools 🔧</h2>
+
+<h3 align="center"> 𝙼𝚢 𝚂𝚝𝚊𝚝𝚞𝚜 </h3>
+<div align = "center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevMatheusSilva&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMatheusSilva&layout=compact&hide_border=true&bg_color=0d1117&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF">
+</div>
+
+<h3 align = "center">𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜</h3>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg?short_path=d0841f2" width = "60px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width = "60px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width = "60px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width = "60px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width = "60px">
   <img src="https://www.rust-lang.org/logos/rust-logo-256x256.png" width = "60px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width = "60px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width = "60px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width = "60px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width = "60px">
-</div>
-
-<h2 align = "center">⚙ Frameworks ⚙</h2>
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg?short_path=d0841f2" width = "60px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" width = "60px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" width = "60px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width = "60px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width = "60px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg" width = "60px">
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3B77A7&section=footer">
+<p>╚═══════════════════════════════════════════════════════════════════════════════════════╝</p>
+
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1b5089&section=footer"> --> 
