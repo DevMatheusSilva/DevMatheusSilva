@@ -7,11 +7,11 @@
   <img src="https://i.pinimg.com/originals/21/9a/09/219a09d5c2d9e50e4c2d20c9a03e09af.gif" align="center" width=450>
 </div>
 
-<h3 align="center"> 𝙼𝚢 𝚂𝚝𝚊𝚝𝚞𝚜 </h3>
+<!-- <h3 align="center"> 𝙼𝚢 𝚂𝚝𝚊𝚝𝚞𝚜 </h3>
 <div align = "center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevMatheusSilva&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMatheusSilva&layout=compact&hide_border=true&bg_color=0d1117&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF">
-</div>
+</div> -->
 
 <h3 align = "center">𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜</h3>
 <div align="center">
