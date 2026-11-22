@@ -13,6 +13,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMatheusSilva&layout=compact&hide_border=true&bg_color=0d1117&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF">
 </div>
 
+<h4> ☆ ★ ☆ </h4>
+
 <h3 align = "center">Languages & Tools</h3>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg?short_path=d0841f2" width = "60px">
