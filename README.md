@@ -6,8 +6,18 @@
 
 <div align="center">
   <h3>Welcome to my GitHub profile</h3>
-  <h4> My name is <b>Matheus Silva</b>, I'm a <b>Software Developer</b>. Please enjoy your stay here </h4>
+  <h4> My name is <b>Matheus Silva</b>, I'm a <bold>Fullstack Software Developer</bold> currently sudying AI, ML and Cloud Computing. </h4>
+  <p><i>Please enjoy your stay here, and hope you like my projects</i></p>
 </div>
+
+<br><br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/★-BACKEND%20ENGINEERING-050D18?style=for-the-badge&labelColor=D87050">
+  <img src="https://img.shields.io/badge/★-SOFTWARE%20ARCHITECTURE-050D18?style=for-the-badge&labelColor=D87050">
+</div>
+
+<br><br>
 
 <div align="center">
   <img src="https://media.tenor.com/zduaefgRHq4AAAAi/claude-claude-code.gif" width="240">
@@ -16,8 +26,6 @@
 <br><br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/★-BACKEND%20ENGINEERING-050D18?style=for-the-badge&labelColor=D87050">
-  <img src="https://img.shields.io/badge/★-SOFTWARE%20ARCHITECTURE-050D18?style=for-the-badge&labelColor=D87050">
   <img src="https://img.shields.io/badge/★-ARTIFICIAL%20INTELLIGENCE-050D18?style=for-the-badge&labelColor=D87050">
   <img src="https://img.shields.io/badge/★-GAME%20DEVELOPMENT-050D18?style=for-the-badge&labelColor=D87050">
 </div>
