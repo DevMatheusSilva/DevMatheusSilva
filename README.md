@@ -3,7 +3,7 @@
 <div align="center">
   <h3>  𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 </h3>
   <h4> ☆ ★ ☆ </h4>
-  <h4> 𝙼𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 𝙼𝚊𝚝𝚑𝚎𝚞𝚜 𝚂𝚒𝚕𝚟𝚊, I'm a Software Developer 𝚎𝚗𝚓𝚘𝚢 𝚢𝚘𝚞𝚛 𝚜𝚝𝚊𝚢 𝚑𝚎𝚛𝚎 </h4>
+  <h4> My name is <b>Matheus Silva</b>, I'm a <b>Software Developer</b>. Please enjoy your stay here </h4>
   <img src="https://i.pinimg.com/originals/21/9a/09/219a09d5c2d9e50e4c2d20c9a03e09af.gif" align="center" width=450>
 </div>
 
