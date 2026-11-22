@@ -7,19 +7,26 @@
 <div align="center">
   <h3>Welcome to my GitHub profile</h3>
   <h4> My name is <b>Matheus Silva</b>, I'm a <b>Software Developer</b>. Please enjoy your stay here </h4>
-  <h4> ☆ ★ ☆ </h4>
 </div>
 
 <div align="center">
   <img src="https://media.tenor.com/zduaefgRHq4AAAAi/claude-claude-code.gif" width="240">
-  <h4> ☆ ★ ☆ </h4>
+</div>
+
+<br><br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/★-BACKEND%20ENGINEERING-050D18?style=for-the-badge&labelColor=D87050">
+  <img src="https://img.shields.io/badge/★-SOFTWARE%20ARCHITECTURE-050D18?style=for-the-badge&labelColor=D87050">
+  <img src="https://img.shields.io/badge/★-ARTIFICIAL%20INTELLIGENCE-050D18?style=for-the-badge&labelColor=D87050">
+  <img src="https://img.shields.io/badge/★-GAME%20DEVELOPMENT-050D18?style=for-the-badge&labelColor=D87050">
 </div>
 
 <br>
 
 ---
 
-<h3 align="center">GITHUB DIAGNOSTICS</h3>
+<h3 align="center">Diagnostics</h3>
 
 <div align="center">
 
@@ -34,7 +41,7 @@
 </div>
 
 ---
-<h3 align="center">TECHNICAL ARSENAL</h3>
+<h3 align="center">Technical Skills</h3>
 
 <br>
 
@@ -62,39 +69,6 @@
 <br>
 
 <hr>
-
-<br>
-
-<h3 align="center">ACTIVE MISSIONS</h3>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/★-BACKEND%20ENGINEERING-050D18?style=for-the-badge&labelColor=D87050">
-  <img src="https://img.shields.io/badge/★-SOFTWARE%20ARCHITECTURE-050D18?style=for-the-badge&labelColor=D87050">
-  <img src="https://img.shields.io/badge/★-ARTIFICIAL%20INTELLIGENCE-050D18?style=for-the-badge&labelColor=D87050">
-  <img src="https://img.shields.io/badge/★-GAME%20DEVELOPMENT-050D18?style=for-the-badge&labelColor=D87050">
-</div>
-
-<br>
-
-<hr>
-
-<h3 align="center">ESTABLISH CONNECTION</h3>
-
-<div align="center">
-
-<a href="https://github.com/DevMatheusSilva">
-  <img src="https://img.shields.io/badge/GITHUB-050D18?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/matheussilva1089/">
-  <img src="https://img.shields.io/badge/LINKEDIN-050D18?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
-</a>
-
-</div>
-
-<br>
 
 <div align="center">
 
